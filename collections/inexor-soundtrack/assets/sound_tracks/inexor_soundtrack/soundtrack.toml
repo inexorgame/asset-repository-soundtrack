@@ -1,0 +1,55 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "e2141eda-be1c-4aae-b8a3-95be09dc036f"
+
+name = "Inexor Soundtrack"
+
+version = "1.0.0"
+
+# Use license identifiers (https://spdx.org/licenses/)
+license = "CC-BY-4.0"
+attribution = "'Inexor' by Marc A. Pullen is licensed under CC-BY-4.0"
+
+authors = [
+    "Marc A. Pullen"
+]
+
+description = "This is the full album written for the Inexor open source game engine (similar to Cube/Cube 2)"
+
+categories = [
+    "metal"
+]
+
+tracks = [
+    "Marc A. Pullen - Inexor - 01 - The Air Drop - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 02 - The Escape - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 03 - The Leap Of Faith - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 04 - The Recovery - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 05 - The Cave - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 06 - The Pit - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 07 - The Alpha - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 08 - The River - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 09 - The Beach - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 10 - The Problem - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 11 - The Anomaly - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 12 - The Pharaoh - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 13 - The Camel - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 14 - The Journey - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 15 - The Oasis - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 16 - The Cavern - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 17 - The Rupture - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 18 - The Tank - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 19 - The Long Walk - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 20 - The Den - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 21 - The Descent - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 22 - The Furthest Reaches - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 23 - The Worst Place - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 24 - The Sickness - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 25 - The Cure - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 26 - The Madness - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 27 - The Blindness - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 28 - The Castle - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 29 - The Retreat - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 30 - The Equestrian - marcpullen.mp3",
+    "Marc A. Pullen - Inexor - 31 - The Release - marcpullen.mp3"
+]

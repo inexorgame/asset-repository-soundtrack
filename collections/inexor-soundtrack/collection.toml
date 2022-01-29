@@ -1,0 +1,26 @@
+# The unique identifier (UUID) must be unique!
+# Use linux command uuidgen to create a random UUID
+uuid = "9453aaf1-5944-4aa4-b902-b2d7b700bf89"
+
+name = "Inexor Soundtrack"
+
+homepage = "https://soundcloud.com/marcpullen/sets/inexor"
+
+maintainers = [
+    "Marc A. Pullen"
+]
+
+description = """\
+\
+This is the full album written for the Inexor open source game engine (similar to Cube/Cube 2). It's still in early development (as of January 2022), but they are working on some amazing features.\
+\
+inexor.org\
+\
+If you want to support me and my future music efforts, buy my stuff and spread the word!\
+\
+Thanks for your support!\
+"""
+
+categories = [
+    "metal"
+]
